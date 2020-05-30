@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+iT5pPGZkbCNL82u9VzgdRimOMHHroZTyZBWcBuVIT1pYaM3+850w6Y9Am5nEDtEP47ehswQIfeL4tftFTcxA==",
+  "success": true,
+  "projectFilePath": "D:\\Daniel\\Programming\\C#\\JukeboxControl.Core\\JukeboxControl.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
